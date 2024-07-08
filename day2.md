@@ -31,4 +31,4 @@ make
 
 [markdown doc link](https://www.markdownguide.org/basic-syntax/)
 
-![markdown - image](https://github.com/thahmidul-nafi-primesilicon/skills-communicate-using-markdown/assets/113158338/7004036e-87ae-4929-8f7e-787342d46135)
+![markdown - image](assets/img1.png)
